@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sdk:sdk-addon xmlns:sdk="http://schemas.android.com/sdk/android/addon/7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <sdk:add-on>
-        <sdk:vendor-id>bina1204</sdk:vendor-id>
-        <sdk:vendor-display>bina1204</sdk:vendor-display>
-        <sdk:name-id>bina1204_apis</sdk:name-id>
-        <sdk:name-display>bina1204 APIs</sdk:name-display>
-        <sdk:description>Android + bina1204 APIs</sdk:description>
+        <sdk:vendor-id>testbina1204</sdk:vendor-id>
+        <sdk:vendor-display>testbina1204</sdk:vendor-display>
+        <sdk:name-id>testbina1204_apis</sdk:name-id>
+        <sdk:name-display>testbina1204 APIs</sdk:name-display>
+        <sdk:description>Android + testbina1204 APIs</sdk:description>
         <sdk:api-level>35</sdk:api-level>
         <sdk:revision>1</sdk:revision>
         <sdk:libs/>
@@ -13,7 +13,7 @@
             <sdk:archive>
                 <sdk:size>962</sdk:size>
                 <sdk:checksum type="sha1">4e19dbcf614cd06dc10d0cb25def1c1dddec801d</sdk:checksum>
-                <sdk:url>https://github.com/hiroya-enokida/Example/blob/main/HelloWorldSDK.zip</sdk:url>
+                <sdk:url>https://github.com/hiroya-enokida/test/blob/branch_test/HelloWorldSDK.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
     </sdk:add-on>
