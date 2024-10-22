@@ -13,7 +13,7 @@
             <sdk:archive>
                 <sdk:size>962</sdk:size>
                 <sdk:checksum type="sha1">4e19dbcf614cd06dc10d0cb25def1c1dddec801d</sdk:checksum>
-                <sdk:url>https://github.com/hiroya-enokida/test/raw/refs/heads/branch_test/HelloWorldSDK.zip</sdk:url>
+                <sdk:url>HelloWorldSDK.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
     </sdk:add-on>
